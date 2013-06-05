@@ -83,6 +83,7 @@
 
 # /dependencies/
 /dependencies/boost
+/dependencies/ffmpeg-c17808c
 
 # /dependencies64/ for 2.1.0 branch
 /dependencies64/asmlib
